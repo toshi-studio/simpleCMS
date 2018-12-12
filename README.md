@@ -1,2 +1,2 @@
 # simpleCMS
-Simple CMS
+Simple Content Management System based on firebase
